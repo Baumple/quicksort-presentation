@@ -251,3 +251,12 @@ public class QS {
     }
 }
 ```
+
+<!--end_slide-->
+<!--jump_to_middle-->
+Danke fuer eure Aufmerksamkeit!!
+================================
+<!--pause-->
+Source Code und Presentation: [](https://github.com/Baumple/quicksort-presentation)
+<!--pause-->
+(und Quelle Wikipedia)

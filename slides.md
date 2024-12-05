@@ -6,15 +6,13 @@ authors:
   - Linus Ziegler
 ---
 
-<!--end_slide-->
-
 Inhalt
 ======
 1. Grundlegende Eigenschaften des Algorithmus
   - Einzelheiten
   - Grober Ablauf
 2. Nassi-Schneider Diagramm (Struktogramm)
-3. Implementatitionen (Java, C, Gleam)
+3. Implementatition (Java, Gleam)
 
 <!--end_slide-->
 <!--jump_to_middle-->

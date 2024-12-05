@@ -1,7 +1,6 @@
 import java.util.function.Consumer;
 import java.util.Array;
 
-
 public class S {
     private static void quicksort(int[] arr, int lo, int hi) {
         if (lo >= hi || lo < 0) { return; }
